@@ -1,7 +1,6 @@
 <div align="center">
   <div align="center">
-  <img  src="https://raw.githubusercontent.com/allinu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
-       alt="snake" />
+  <img src="https://raw.githubusercontent.com/allinu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="snake" />
   </div>
   <img alt="gif" src="https://www.qpic.ws/images/2024/04/10/5A8HsD.gif" />
 </div>
@@ -28,7 +27,7 @@
 
 📚 博客：
 
-[ 西片的笔记 ](https://notion.allinu.vercel.app/)
+[西片的笔记](https://notion.allinu.vercel.app/)
 
     https://notion.allinu.vercel.app/
 
